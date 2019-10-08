@@ -20,6 +20,7 @@ class Dog
     @breed = new_breed
   end
 
-fido = Dog.new
+
 
 end
+fido = Dog.new
